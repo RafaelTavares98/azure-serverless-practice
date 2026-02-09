@@ -1,12 +1,15 @@
-# Local Azure Functions Hello World Test (Python)
-
 ## Objective
 Use the Azure Core Tools template to quickly spin up an HTTP Function locally.
 
 ## Prerequisites
 - Azure Functions Core Tools v4  
 - Python installed  
-- curl available for testing  
+- curl available for testing
+  
+## requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 ## 1. Initialize the project
 ```bash
@@ -44,7 +47,7 @@ func start
   ```
 
 Expected result:
-
-"Hello, {your_name}. This HTTP triggered function executed successfully."
+```
+Hello, {your_name}. This HTTP triggered function executed successfully.
 
 
