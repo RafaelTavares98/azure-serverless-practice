@@ -18,6 +18,7 @@ Generated files:
 - `local.settings.json`;
 - `requirements.txt`;
 - `.gitignore`;
+- `.vscode/`
 
 ## 2. Create a HTTP function
 ```bash
@@ -53,6 +54,5 @@ Expected result:
 ├── host.json
 ├── local.settings.json
 ├── requirements.txt
-└──  .gitignore
-
-
+├── .gitignore
+└── .vscode/
