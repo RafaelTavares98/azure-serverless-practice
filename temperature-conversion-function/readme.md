@@ -33,6 +33,5 @@ func start
 
 Example URL for local testing:
 ```bash
-http://localhost:7071/api/convert_temperature?temperature=34.3&unit=celsius
+http://localhost:7071/api/convert_temperature?temperature=34.3&unit=celsius # 34.3
 ```
-<img width="556" height="124" alt="image" src="https://github.com/user-attachments/assets/544ac37e-5749-43ab-8bb8-a742e7417bee" />
