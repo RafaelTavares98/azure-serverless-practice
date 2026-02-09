@@ -6,6 +6,11 @@
 - Python installed  
 - curl available for testing  
 
+## requirements.txt
+```bash
+pip install -r requirement.txt
+```
+
 ## 1. Initialize the project
 ```bash
 func init . --python # creates the base Function structure configured for Python
@@ -20,7 +25,7 @@ Generated files:
 
 ## 2. Create a HTTP function
 ```bash
-func new --name HelloWorldFunc --template "HTTP trigger" # starts the function assistant using HTTP
+func new --name convert_temperature --template "HTTP trigger" # starts the function assistant using HTTP
 ```
 Select option 2 (ANONYMOUS) for Auth Level.
 
