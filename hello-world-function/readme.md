@@ -47,12 +47,4 @@ Expected result:
 
 "Hello, {your_name}. This HTTP triggered function executed successfully."
 
-## 5. Directory structure
-```bash
-.
-├── function_app.py
-├── host.json
-├── local.settings.json
-├── requirements.txt
-├── .gitignore
-└── .vscode/
+
