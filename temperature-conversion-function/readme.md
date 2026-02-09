@@ -1,5 +1,5 @@
 # **Objective**
-**Create an HTTP Function in Python that converts temperatures between Celsius and Fahrenheit..**
+**Create an HTTP Function in Python that converts temperatures between Celsius and Fahrenheit.**
 
 ## Prerequisites
 - Azure Functions Core Tools v4  
